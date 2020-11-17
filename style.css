@@ -1,5 +1,33 @@
-h3{
-  color: rgb(81, 175, 160);
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  padding: 15px;
+h1 {
+  color: blue;
+}
+
+.purple {
+  color: purple;
+}
+
+#red {
+  color: red;
+}
+
+#big-font {
+  font-size: 40px;
+}
+
+#bold-font {
+  font-weight: bold;
+}
+
+.back-black {
+  background-color: #000;
+}
+
+.small-font {
+  font-size: 10px;
+}
+.image {
+  width: 150px;
+  height: 150px;
+  
+
 }
